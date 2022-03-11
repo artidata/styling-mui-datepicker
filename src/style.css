@@ -1,0 +1,19 @@
+button.PrivatePickersYear-yearButton {
+  font-size: 30px;
+}
+
+.PrivatePickersToolbar-root {
+  background-color: red;
+}
+
+.MuiTypography-h4 {
+  font-weight: 700;
+}
+
+.MuiPaper-root {
+  border-radius: 50px;
+}
+
+button.MuiButtonBase-root.MuiPickersDay-root {
+  color: blue;
+}
